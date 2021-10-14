@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @MMahdiYousefi
-- 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Anything there is about ML ...
-- 💞️ I’m looking to collaborate on Real World Data Science related problems
-- 📫 How to reach me: 
--       Gmail: mmahdiyousefi.work@gmail.com
--       LinkedIn: linkedin.com/in/mohammad-mahdi-yousefi-aaaa02220 
+# HI EVERYONE:wave:
+I'm @MMahdiyousefi:smile:
 
-<!---
-MMahdiYousefi/MMahdiYousefi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm a highly motivated Data Science enthusiast and my main focus is to get envolved
+In a real-world Data Science related problem and do my best to solve it
+
+P.s: I've worked on ML and DS projects before
+
+Contact info:
+
+- :mailbox_with_no_mail:Gmail: mmahdiyousefi.work@gmail.com
+- :link:LinkedIn: linkedin.com/in/mohammad-mahdi-yousefi-aaaa02220
