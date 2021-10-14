@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMahdiYousefi
-- 👀 I’m interested in Data Science, MachineLearning and AI
-- 🌱 I’m currently learning Anything there is about ML...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Machine Learning and AI
+- 🌱 I’m currently learning Anything there is about ML ...
+- 💞️ I’m looking to collaborate on Real World Data Science related problems
 - 📫 How to reach me: mmahdiyousefi.work@gmail.com
 
 <!---
