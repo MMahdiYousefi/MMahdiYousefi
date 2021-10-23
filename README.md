@@ -10,4 +10,4 @@ P.s: I've worked on ML and DS projects before
 Contact info:
 
 - :mailbox_with_no_mail:Gmail: mmahdiyousefi.work@gmail.com
-- :link:LinkedIn: linkedin.com/in/mohammad-mahdi-yousefi-aaaa02220
+- :link:LinkedIn: https://www.linkedin.com/in/mmahdi-yousefi/
