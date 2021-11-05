@@ -2,10 +2,8 @@
 I'm @MMahdiyousefi:smile:
 
 
-I'm a highly motivated Data Science enthusiast and my main focus is to get envolved
-In a real-world Data Science related problem and do my best to solve it
-
-P.s: I've worked on ML and DS projects before
+I'm a highly motivated Data Scientist and my main focus is to get envolved
+In a real-world Data Science related problem and do my best to solve it.
 
 Contact info:
 
